@@ -1,0 +1,711 @@
+@media screen and  (max-width:991px){
+    nav  ul li a {
+        display: none;
+    }
+
+    .logo{
+        padding-left: 70%;
+        transform: translateX(95%);
+    }
+    
+    main{
+        /* flex-direction: column-reverse; */
+        padding: 40px;
+        display: flex;
+        flex-direction: row;
+        transform: translateX(5%);
+    }
+     
+
+      .card{
+        width: 350px;
+        height: 300px;
+    }
+
+    .rightcoloumn{
+        width: 50%;
+        transform: translateY(-14%);
+    }
+
+    .ladyygaga{
+        width: 450px;
+        height: 300px;
+        padding-bottom: 0%;
+    }
+      
+    .left-col{
+        width: 50% ;
+    }
+   /* services section */
+   .SVG3 , .SVG2 ,.SVG1 , .SVG4{
+    width: 65px;
+    margin-top: 8%;
+}
+
+
+
+.procedure3content , .procedure2content , .procedure4content , .C {
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: 0%;
+    line-height: 25%;
+    transform: translateY(-26px)
+    
+}
+
+.CC3 , .CC2 , .CC1 , .CC4{
+    transform: translateY(-75px);
+    margin-top: 17%;
+    color: #9B6D4A;
+    font-size: 0.7em;
+
+}
+
+    .container{
+        margin-left: 15%;
+    }
+   .procedure2 , .procedures , .procedure3 , .procedure4{
+    width: 170px;
+    height: 170px;
+    
+   }
+     
+   /* About section */
+   .Aboutus{
+    padding: 34px;
+   }
+
+   .rightside{
+    transform: translateX(-12%);
+    margin-top: 35%;
+   }
+
+
+
+   /* FAQ Section */
+
+   .faqwrapper{
+    width: 50%;
+    margin-left: 22%;
+   }
+
+
+   /* footer section */
+    .footer{
+        width: 1000px;
+        height: 444px;
+        padding-bottom: 0%;
+    }
+   .paragraph {
+    padding-left: 35%;
+    transform: translateX(19%);
+    
+     }
+
+     .copyright{
+        margin-top: -20%;
+        padding-bottom: 0%;
+
+
+     }
+
+     .vector{
+        width:1000px;
+        transform: translateX(9%);
+        margin-top: -213%;
+        padding-bottom: 0%;
+     }
+
+.lohoooo{
+    width: 155px;
+    height: 155px;
+    margin-left: 56%;
+    transform: translateY(-0.3%);
+    margin-top: 25%;
+    padding-bottom: 0%;
+}
+
+
+.footer2content{
+    transform: translateX(63%);
+    margin-top: 120%;
+    padding-bottom: 0%;
+}
+
+.footer3content{
+    transform: translateY(-50%);
+    margin-left: 65%;
+    padding-bottom: 0%;
+}
+
+
+/* social icons */
+
+
+
+    }
+    
+/* For tablet screens */
+
+@media screen and  (max-width:768px){
+     
+   
+
+    .logo{
+        transform: translateX(8%);
+    }
+
+    .left-col{
+        width: 50%;
+        padding: 24px;
+        padding-bottom: 20px;
+    }
+    .left-col h1{
+        font-size: 24px;
+    }
+    
+    .subheading{
+        font-size: 14px;
+        text-wrap: wrap;
+    }
+    
+    .card{
+        width: 330px;
+        height: 270px;
+        transform: translateY(-5%);
+        margin-top: 25%;
+        margin-left: -14%;
+    }
+
+    .ladyygaga{
+        width: 400px;
+        height: 270px;
+        border-radius: 15%;
+        
+    }
+
+
+
+    /* services section */
+    .subsec{
+        color: #563232;
+        font-size: 2rem;
+        font-weight:  600;
+        padding-left: 33%;
+        padding-top: 0%;
+        align-content: center;
+        margin-top: 0%;
+        transform: translateX(7%);
+        
+    }
+    .SVG4{
+        transform: translateX(75%);
+    }
+   
+    .servicesection{
+        margin-top: 3%;
+        padding-bottom: 0%;
+    }
+    
+    .be{
+        transform: translateX(-200%)translateY(504%);
+        text-decoration: none;
+        color: beige;
+    }
+
+    .procedures , .procedure2 , .procedure3 , .procedure4{
+        width: 130px;
+        height: 170px;
+        border-radius: 23px;
+    }
+    .SVG3 , .SVG2 ,.SVG1 , .SVG4{
+       width: 50%;
+       transform: translateX(-9%);
+       
+    }
+
+    .procedure3content , .procedure2content , .procedure4content , .C {
+        font-weight: bold;
+        font-size: 12px;
+    }
+
+    .container{
+        margin-left: 15%;
+        padding-left: 3%;
+    }
+
+    .subsec{
+        transform: translateX(5%);
+    }
+
+    .service h2{
+        font-size: 1rem;
+        font-weight: bolder;
+        transform: translateX(6%);
+    }
+
+    /* about us section */
+
+    .Aboutus{
+        flex-direction: column;
+    }
+    
+    .rightside{
+        transform: translateX(55%);
+        margin-top: 5%;
+        width:344px;
+        border-radius: 13%;
+
+    }
+
+    .shanvimam{
+        width: 344px;
+        transform: translateY(-21%);
+        border-radius: 9%;
+    }
+
+    .leftside{
+        width: 550px;
+        transform: translateX(15%);
+    }
+
+    .subhedingggg{
+        font-size: 2rem;
+    }
+
+    .dentalsolution{
+      font-size: 1rem;
+    }
+
+    .aboutuscontent , .subpara , .subpara2{
+        font-size: 0.8rem;
+    }
+  
+
+    /* testimonies section */
+
+    .beforeandafter{
+        margin-top: 23%;
+    }
+
+
+
+
+
+
+    /* FAQ SECTION */
+     
+    .whoo{
+        font-size: 2rem;
+    }
+
+
+    /* google review section  */
+      
+    .subheading43{
+        font-size: 2rem;
+    }
+
+    /* footer section */
+
+    .footer{
+        width: 1000px;
+        height: 400px;
+        padding-bottom: 0%;
+        margin-top: 0%;
+    }
+   .paragraph {
+    padding-left: 35%;
+    font-size: 0.9rem;
+    transform: translateX(19%);
+    
+     }
+
+     .copyright{
+        margin-top: 160%;
+        padding-bottom: 0%;
+        margin-bottom: 0%;
+        transform: translateX(-6%);
+        z-index: 45%;
+        height: 54px;
+
+
+     }
+
+     .vector{
+       display: none;
+     }
+     
+
+.lohoooo{
+    width: 75px;
+    height: 75px;
+    margin-left: 56%;
+    transform: translateY(-0.3%);
+    margin-top: 25%;
+    padding-bottom: 0%;
+}
+
+
+.footer2content{
+    font-size: 10px;
+    transform: translateX(-35%)translateY(-24.5%);
+    margin-top: 40%;
+    padding-bottom: 0%;
+}
+
+.footer2content li{
+margin-bottom: 4%;
+}
+.footer3content{
+    transform: translateY(-50%)translateX(9%);
+    margin-left: 35%;
+    padding-bottom: 0%;
+    font-size: 10px;
+    width: 250px;
+}
+
+.footer-content{
+    transform: translateY(-35%);
+    margin-left: -22%;
+}
+
+.imagehospital{
+    width: 990px;
+    height: 570px;
+}
+
+
+.activity{
+    transform: translateY(-300%)translateX(-500%);
+}
+
+.copyright{
+    transform: translateX(-64.5%);
+}
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width:425px){ 
+
+   html,body {
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+   }
+
+   
+    nav{
+        background-color: #563232;
+        transform: translateX(-1%) translateY(-2.7%);
+        width: 800%;
+        margin-left: 0%;
+        margin: 0%;
+        padding: 0%;
+        background-color: #563232;
+        height: 111px;
+    }
+    
+    .logo{
+        z-index: 35%;
+        width: 100px;
+        
+        transform: translateX(-40%);
+        background-color: #563232;
+    }
+main{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    padding-top: 0%;
+    
+}
+
+
+.left-col {width:290px ;
+    margin-left: -18%;
+    padding-right: 23%;
+    margin-right: 0%;
+    gap: 0%;
+    margin-right: 23%;
+
+
+}
+
+.rightcoloumn{
+    margin-top: 0%;
+    padding-top: 0%;
+    transform: translateY(4%);
+
+
+}
+
+h2{
+    transform: translateX(-50%);
+}
+.SVG4{
+    transform: translateX(55%);
+}
+.card{
+    border-radius: 25px;
+    width: 300px;
+    height: 260px;
+    padding-left: 0%;
+}
+
+.ladyygaga{
+    border-radius: 25px;
+    width: 370px;
+    height: 260px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+/* services section */
+services h2{transform: translateX(7%);
+
+}
+
+.root{
+    transform: translateX(5%);
+}
+.services{
+    transform: translateX(-9%);
+}
+.subsec{
+    transform: translateX(-18%);
+}
+.container{
+    transform: translateX(-6.8%);
+}
+
+/* about us section */
+
+.Aboutus{
+    width: 380px;
+    justify-content: center;
+}
+
+
+
+
+.classoneofleftside{
+    width: 300px;
+    font-size: 2px;
+}
+
+.rightside{
+    transform: translateX(-17%);
+    height: 300px;
+    width: 290px;
+}
+
+.shanvimam{
+    transform: translateY(-33%)translateX(-2%);
+    width: 300px;
+}
+.svgcalculater , .SVGCLOCK{
+    width: 70px ;
+}
+
+.subheading7 , .subheading8{
+    font-size: 14px;
+}
+
+.contentclock , .calculatorcontent{
+    width: 195px;
+}
+.numberone , .numbertwo{
+    display: flex;
+    flex-direction: row;
+}
+
+
+/* Testimonal section */
+
+
+.divone{
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    transform: translateY(-50%);
+    margin-top: 7%;
+    color: #563232;
+    
+}
+.sub16head{
+    color: #9D2C10;
+    font-size: 1rem;
+    margin-top: 0%;
+}
+
+
+/* FAQ SECTION */
+
+.whoo{
+    font-size: 19px;
+    transform: translateX(4%);
+    transform: translateY(-65%);
+
+}
+
+.qanda{
+    font-size: 24px;
+    padding-bottom: 0%;
+}
+
+.faqwrapper{
+    transform: translateX(-7%);
+}
+
+/* review section */
+.subheading43{
+    font-size: 23px;
+}
+
+.ourreviews{
+color: #563232;
+}
+
+ /* FAQ SECTION */
+ .faqdetail{
+    font-size: 9px;
+}
+
+
+ .review{
+    width: 40px;
+    height: 200px;
+ }
+ .review-text{
+  font-size: 0.8rem;
+ }
+
+ .imagehospital{
+    width: 420px;
+    height: 300px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+} 
+/* footer section */
+
+/* .footer-content{
+    transform: translateX(-44%)translateY(-835%);
+} 
+ .footer{
+    width: 270px;
+    height: 200px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    transform: translateY(-2850%);
+   
+    
+}
+
+ .imagehospital{
+    width: 420px;
+    height: 300px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+} 
+
+
+ .paragraph{font-size: 9px;
+    width: 100px;
+    transform: translateX(39%);
+
+}
+.footer2content{
+    transform: translateY(-499%) translateX(-65%);
+    margin-right: 34%;
+    font-size: 6.9px;
+}
+.footer2content li a{
+    font-size: smaller;
+}
+.footer2content li{
+    margin-bottom: 0.8%;
+    margin-bottom: 6%;
+}
+.footer2content h50{
+    font-size: 13px;
+}
+
+.footer3content{
+    transform: translateX(32px)translateY(-750px);
+    width: 100px;
+    font-size: 7.9px;
+   
+}
+
+.footer3content li a{
+    font-size: smaller;
+    margin-bottom: 10%;
+    column-gap: 0%;
+}
+
+.footer3content h49 {
+    font-size: small;
+}
+
+.footer3content li{
+    margin-bottom: 1%;
+}
+.copyright{
+    width: 380px;
+    height: 33px;
+    margin-top: 0%;
+    transform: translateX(-18%)translateY(-2500%);
+    margin-left: 0%;
+    padding-left: 0%;
+    margin-bottom: 0%;
+    
+}
+
+.copyright a{
+    font-size: 12px;
+    padding-bottom: 0%; 
+
+}  */
+
+/* .footer , .copyright , , .footer3content{
+    width: 200px;transform: translateX(18%) translateY(-599%);
+} */
+
+.footer-content{
+    width: 150px;
+    font-size: 12px;
+    transform: translateX(36%)translateY(-700%);
+    display: none;
+}
+
+.footer2content{
+    transform: translateX(-65%);
+}
+.footer3content{
+    transform: translateX(-25%);
+}
+
+.footer{
+    width: 200px;
+    height: 400px;
+    transform: translateX(15%)translateY(-900%);
+    margin-bottom: 0%;
+    margin-top: -700%;
+    display: none;
+}
+
+/* .copyright{
+    width: 370px;
+    transform: translateX(-25%);
+    align-items: center;
+} */
+}
+
